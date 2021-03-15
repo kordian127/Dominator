@@ -13,7 +13,7 @@ if (sizeA==0)
     return -1;
 
 map<int,int> m;
-int maxVal=A[0];
+int maxVal=0;
 int numb;
 
 for(int i=0;i<sizeA;i++){
